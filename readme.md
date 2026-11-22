@@ -11,7 +11,7 @@
 
 - python >= 3.12
 - numpy
---
+
 
 ## How to run
 
